@@ -11,3 +11,6 @@ for (let i = 0; i < gridSize**2; i++) {
     box.style.height = `${boxSize}%`;
     container.appendChild(box);
 }
+
+const leftKnob = document.createElement("div");
+const rightKnob = document.createElement("div");
