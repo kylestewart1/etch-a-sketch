@@ -1,0 +1,22 @@
+#frame {
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 800px;
+    height: 800px;
+    border: 1px solid black;
+}
+
+#container {
+    display: flex;
+    background-color: aqua;
+    border: 2px solid blue;
+    flex-wrap: wrap;
+    width: 90%;
+    height: 90%;
+    margin-top: 1%;
+    margin-left: 5%;
+}
+
+.box {
+    background-color: sienna;
+}
