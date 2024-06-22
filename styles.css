@@ -12,9 +12,9 @@
     box-shadow: -5px 5px 10px grey;
 }
 
-#container {
+#screen {
     display: flex;
-    background-color: #eeeeee;
+    background-color: #fff;
     flex-wrap: wrap;
     width: 90%;
     height: 80%;
@@ -43,3 +43,12 @@
     box-shadow: -2px 2px 2px grey;
 }
 
+button {
+    background: linear-gradient(45deg, red 15%, orange 29%, yellow 43%, green 57%, blue 71%, indigo 85%, violet 100%);
+    font-style: bold;
+    font-size: 1.1rem;
+    width: 15%;
+    height: 50%;
+    border: 1px solid grey;
+    border-radius: 10%;
+}
