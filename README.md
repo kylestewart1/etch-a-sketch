@@ -1,0 +1,1 @@
+A web app that lets you draw pixellated pictures using your mouse, similar to the classic Etch-A-Sketch kids toy. This is one of the Odin Project exercises.
